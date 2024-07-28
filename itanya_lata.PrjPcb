@@ -565,7 +565,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=Components - PNP Digital\Components - PNP Digital\Project Outputs for Components - PNP Digital\Components - PNP Digital.IntLib
+DocumentPath=Components - PNP2 Digital\Components - PNP2 Digital.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
