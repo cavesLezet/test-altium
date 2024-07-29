@@ -1,0 +1,42 @@
+Added Component: Designator=U?(SOP65P640X110-28N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PCA9685PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-28 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PCA9685PW,118/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=I2C1_SCL Pin=U?-26
+Added Pin To Net: NetName=I2C1_SDA Pin=U?-27
+Added Pin To Net: NetName=GND Pin=U?-28
+Added Pin To Net: NetName=PWM1 Pin=J1-13
+Added Pin To Net: NetName=PWM1 Pin=U?-6
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=J1-14
+Added Pin To Net: NetName=PWM2 Pin=U?-7
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=J1-15
+Added Pin To Net: NetName=PWM3 Pin=U?-8
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=J1-16
+Added Pin To Net: NetName=PWM4 Pin=U?-9
+Added Net: Name=PWM4
+Added Member To Class: ClassName=Main Member=Component C1 100 nF
+Added Member To Class: ClassName=Main Member=Component C2 10 мкФ
+Added Member To Class: ClassName=Main Member=Component DA1 LD1117S33TR
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component U? PCA9685PW,118
+Added Member To Class: ClassName=Main Member=Component Все юарты обозначены относительно максов, то есть обратно относительно малины PLD40

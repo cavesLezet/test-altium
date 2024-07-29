@@ -1,0 +1,6 @@
+Remove Pin=DD3-2 From Net=UART3_RX
+Remove Pin=DD3-3 From Net=UART3_TX
+Remove Pin=DD4-2 From Net=UART4_RX
+Remove Pin=DD4-3 From Net=UART4_TX
+Add Pin To Net: Pin=DD2-2 Old Net=UART2_RX New Net=UART3_RX
+Add Pin To Net: Pin=DD2-3 Old Net=UART2_TX New Net=UART3_TX

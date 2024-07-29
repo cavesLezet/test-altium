@@ -1,0 +1,18 @@
+Added Component: Designator=TP?(TP)
+Added Component: Designator=TP?(TP)
+Added Component: Designator=TP?(TP)
+Added Component: Designator=TP?(TP)
+Added Component: Designator=TP?(TP)
+Added Component: Designator=TP?(TP)
+Added Pin To Net: NetName=UART0_RX Pin=TP?-1
+Added Pin To Net: NetName=UART0_TX Pin=TP?-1
+Added Pin To Net: NetName=UART3_RX Pin=TP?-1
+Added Pin To Net: NetName=UART3_TX Pin=TP?-1
+Added Pin To Net: NetName=UART4_RX Pin=TP?-1
+Added Pin To Net: NetName=UART4_TX Pin=TP?-1
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP
+Added Member To Class: ClassName=Main Member=Component TP? TP

@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Main Member=U?
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=UART5_RX Pin=J1-17
+Added Pin To Net: NetName=UART5_TX Pin=J1-18
+Added Pin To Net: NetName=RS485_3_P Pin=J1-21
+Added Pin To Net: NetName=RS485_3_N Pin=J1-22
+Added Pin To Net: NetName=RS485_4_P Pin=J1-23
+Added Pin To Net: NetName=RS485_4_N Pin=J1-24
+Change Net Name : Old Net Name=NetU1_6 New Net Name=NetU2_6
+Change Net Name : Old Net Name=NetU1_7 New Net Name=NetU2_7
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetU2_8
+Change Net Name : Old Net Name=NetU1_9 New Net Name=NetU2_9
+Added Pin To Net: NetName=Power_plate_gpio1 Pin=J1-19
+Added Pin To Net: NetName=Power_plate_gpio1 Pin=U1-36
+Added Net: Name=Power_plate_gpio1
+Added Pin To Net: NetName=Power_plate_gpio2 Pin=J1-20
+Added Pin To Net: NetName=Power_plate_gpio2 Pin=U1-35
+Added Net: Name=Power_plate_gpio2
+Added Member To Class: ClassName=Main Member=Component U3 CD40109BE

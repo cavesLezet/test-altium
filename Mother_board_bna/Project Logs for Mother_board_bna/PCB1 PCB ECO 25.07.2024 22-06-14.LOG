@@ -1,0 +1,286 @@
+Removed Pin From Net: NetName=UART0_RX Pin=DD1-2
+Removed Pin From Net: NetName=UART0_TX Pin=DD1-3
+Removed Pin From Net: NetName=UART2_RX Pin=DD2-2
+Removed Pin From Net: NetName=UART2_TX Pin=DD2-3
+Removed Pin From Net: NetName=UART3_RX Pin=DD3-2
+Removed Pin From Net: NetName=UART3_TX Pin=DD3-3
+Removed Pin From Net: NetName=UART4_RX Pin=DD4-2
+Removed Pin From Net: NetName=UART4_TX Pin=DD4-3
+Added Component: Designator=HL1(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "«еленый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = " расный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL3(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "«еленый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL4(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = " расный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL5(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "«еленый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL6(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = " расный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL7(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "«еленый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL8(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "«еленый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL9(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = " расный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=HL10(0805D)
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = " расный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ќм"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW2)
+Added Component: Designator=SW2(SW2)
+Added Component: Designator=SW3(SW2)
+Added Component: Designator=SW4(SW2)
+Added Component: Designator=SW5(SW2)
+Added Component: Designator=SW6(SW2)
+Added Component: Designator=SW7(SW2)
+Added Component: Designator=SW8(SW2)
+Added Pin To Net: NetName=UART0_RX Pin=HL1-1
+Added Pin To Net: NetName=UART0_TX Pin=HL2-1
+Added Pin To Net: NetName=UART2_RX Pin=HL3-1
+Added Pin To Net: NetName=UART2_TX Pin=HL4-1
+Added Pin To Net: NetName=UART3_RX Pin=HL5-1
+Added Pin To Net: NetName=UART3_TX Pin=HL6-1
+Added Pin To Net: NetName=UART4_RX Pin=HL7-1
+Added Pin To Net: NetName=UART5_RX Pin=HL8-1
+Added Pin To Net: NetName=UART4_TX Pin=HL9-1
+Added Pin To Net: NetName=UART5_TX Pin=HL10-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=UART0_RX Pin=SW1-1
+Added Pin To Net: NetName=UART0_TX Pin=SW2-1
+Added Pin To Net: NetName=UART2_RX Pin=SW3-1
+Added Pin To Net: NetName=UART2_TX Pin=SW4-1
+Added Pin To Net: NetName=UART3_RX Pin=SW5-1
+Added Pin To Net: NetName=UART3_TX Pin=SW6-1
+Added Pin To Net: NetName=UART4_RX Pin=SW7-1
+Added Pin To Net: NetName=UART4_TX Pin=SW8-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=SW1-2
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=SW2-2
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=SW3-2
+Added Net: Name=NetDD2_2
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_3 Pin=SW4-2
+Added Net: Name=NetDD2_3
+Added Pin To Net: NetName=NetDD3_2 Pin=DD3-2
+Added Pin To Net: NetName=NetDD3_2 Pin=SW5-2
+Added Net: Name=NetDD3_2
+Added Pin To Net: NetName=NetDD3_3 Pin=DD3-3
+Added Pin To Net: NetName=NetDD3_3 Pin=SW6-2
+Added Net: Name=NetDD3_3
+Added Pin To Net: NetName=NetDD4_2 Pin=DD4-2
+Added Pin To Net: NetName=NetDD4_2 Pin=SW7-2
+Added Net: Name=NetDD4_2
+Added Pin To Net: NetName=NetDD4_3 Pin=DD4-3
+Added Pin To Net: NetName=NetDD4_3 Pin=SW8-2
+Added Net: Name=NetDD4_3
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R1-2
+Added Net: Name=NetHL1_2
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R2-2
+Added Net: Name=NetHL2_2
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=NetHL3_2 Pin=R3-2
+Added Net: Name=NetHL3_2
+Added Pin To Net: NetName=NetHL4_2 Pin=HL4-2
+Added Pin To Net: NetName=NetHL4_2 Pin=R4-2
+Added Net: Name=NetHL4_2
+Added Pin To Net: NetName=NetHL5_2 Pin=HL5-2
+Added Pin To Net: NetName=NetHL5_2 Pin=R5-2
+Added Net: Name=NetHL5_2
+Added Pin To Net: NetName=NetHL6_2 Pin=HL6-2
+Added Pin To Net: NetName=NetHL6_2 Pin=R6-2
+Added Net: Name=NetHL6_2
+Added Pin To Net: NetName=NetHL7_2 Pin=HL7-2
+Added Pin To Net: NetName=NetHL7_2 Pin=R7-2
+Added Net: Name=NetHL7_2
+Added Pin To Net: NetName=NetHL8_2 Pin=HL8-2
+Added Pin To Net: NetName=NetHL8_2 Pin=R8-2
+Added Net: Name=NetHL8_2
+Added Pin To Net: NetName=NetHL9_2 Pin=HL9-2
+Added Pin To Net: NetName=NetHL9_2 Pin=R9-2
+Added Net: Name=NetHL9_2
+Added Pin To Net: NetName=NetHL10_2 Pin=HL10-2
+Added Pin To Net: NetName=NetHL10_2 Pin=R10-2
+Added Net: Name=NetHL10_2
+Added Member To Class: ClassName=Main Member=Component HL1 =Value
+Added Member To Class: ClassName=Main Member=Component HL2 =Value
+Added Member To Class: ClassName=Main Member=Component HL3 =Value
+Added Member To Class: ClassName=Main Member=Component HL4 =Value
+Added Member To Class: ClassName=Main Member=Component HL5 =Value
+Added Member To Class: ClassName=Main Member=Component HL6 =Value
+Added Member To Class: ClassName=Main Member=Component HL7 =Value
+Added Member To Class: ClassName=Main Member=Component HL8 =Value
+Added Member To Class: ClassName=Main Member=Component HL9 =Value
+Added Member To Class: ClassName=Main Member=Component HL10 =Value
+Added Member To Class: ClassName=Main Member=Component R1 Resistor
+Added Member To Class: ClassName=Main Member=Component R2 Resistor
+Added Member To Class: ClassName=Main Member=Component R3 Resistor
+Added Member To Class: ClassName=Main Member=Component R4 Resistor
+Added Member To Class: ClassName=Main Member=Component R5 Resistor
+Added Member To Class: ClassName=Main Member=Component R6 Resistor
+Added Member To Class: ClassName=Main Member=Component R7 Resistor
+Added Member To Class: ClassName=Main Member=Component R8 Resistor
+Added Member To Class: ClassName=Main Member=Component R9 Resistor
+Added Member To Class: ClassName=Main Member=Component R10 Resistor
+Added Member To Class: ClassName=Main Member=Component SW1 SW2
+Added Member To Class: ClassName=Main Member=Component SW2
+Added Member To Class: ClassName=Main Member=Component SW3 SW2
+Added Member To Class: ClassName=Main Member=Component SW4 SW2
+Added Member To Class: ClassName=Main Member=Component SW5 SW2
+Added Member To Class: ClassName=Main Member=Component SW6 SW2
+Added Member To Class: ClassName=Main Member=Component SW7 SW2
+Added Member To Class: ClassName=Main Member=Component SW8 SW2

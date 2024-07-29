@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=RX NewDesignator=HL1
+Change Component Designator: OldDesignator=RX NewDesignator=HL3
+Change Component Designator: OldDesignator=RX NewDesignator=HL5
+Change Component Designator: OldDesignator=RX NewDesignator=HL7
+Change Component Designator: OldDesignator=RX NewDesignator=HL8
+Change Component Designator: OldDesignator=TX NewDesignator=HL2
+Change Component Designator: OldDesignator=TX NewDesignator=HL4
+Change Component Designator: OldDesignator=TX NewDesignator=HL6
+Change Component Designator: OldDesignator=TX NewDesignator=HL9
+Change Component Designator: OldDesignator=TX NewDesignator=HL10
+Added Component: Designator=DD?(44A_M)
+Add component (AddParameter): Name = "Case"; Value = "TQFP44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.farnell.com/datasheets/2047989.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "примечания"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "5В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/atmega16a-au"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ATmega16A-AU"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component DD? ATmega16A-AU
+Added Member To Class: ClassName=Main Member=Component HL2 =Value
+Added Member To Class: ClassName=Main Member=Component HL3 =Value
+Added Member To Class: ClassName=Main Member=Component HL4 =Value
+Added Member To Class: ClassName=Main Member=Component HL5 =Value
+Added Member To Class: ClassName=Main Member=Component HL6 =Value
+Added Member To Class: ClassName=Main Member=Component HL7 =Value
+Added Member To Class: ClassName=Main Member=Component HL8 =Value
+Added Member To Class: ClassName=Main Member=Component HL9 =Value
+Added Member To Class: ClassName=Main Member=Component R1 Resistor
