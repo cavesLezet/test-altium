@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\MotherBoard\Mother_board_sauvc\Project Logs for Wother_board_sauvc\Main.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CEOCQAPE
-
-[Document2]
 DocumentPath=..\..\..\..\Downloads\RASPBERRY_PI_4B_4GB1\MODULE_RASPBERRY_PI_4B_4GB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APSMUSRV
 
-[Document3]
+[Document2]
 DocumentPath=B:\welt\power_plata (07.11.2023 1-30-28)\Public\Documents\Altium\power_plata\Hydrolib_pcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMIEBAYC
 
-[Document4]
+[Document3]
 DocumentPath=B:\welt\power_plata (07.11.2023 1-30-28)\Public\Documents\Altium\power_plata\Hydrolib_sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFBFBGLA
 
-[Document5]
+[Document4]
 DocumentPath=B:\welt\power_plata (07.11.2023 1-30-28)\Public\Documents\Altium\power_plata\Liba.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=B:\welt\power_plata (07.11.2023 1-30-28)\Public\Documents\Altium\power_plata\schLiba.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKMTMJUD
 
-[Document7]
+[Document6]
 DocumentPath=B:\welt\power_plata (07.11.2023 1-30-28)\Public\Documents\Altium\power_plata\Schliba2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NASIYSRM
 
-[Document8]
+[Document7]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFHZPAAR
 
-[Document10]
+[Document9]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Conectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Conectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDHUBURD
 
-[Document12]
+[Document11]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLLSUONO
 
-[Document14]
+[Document13]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYWCXNFG
 
-[Document16]
+[Document15]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\MCU_VMA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\MCU_VMA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BECUUBVH
 
-[Document18]
+[Document17]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDAALNSU
 
-[Document20]
+[Document19]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Other.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Other.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LULEBPIC
 
-[Document22]
+[Document21]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRYROKCQ
 
-[Document24]
+[Document23]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\VD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\VD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIIODZSL
 
-[Document26]
+[Document25]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\VT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=B:\welt\Mother_board_sauvc (07.11.2023 1-27-40) (2)\ALTIUM Lib\Library\VT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHTRFVOY
 
-[Document28]
+[Document27]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQJEQEHR
 
-[Document29]
+[Document28]
 DocumentPath=Mother_board_bna.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\..\..\..\Downloads\RASPBERRY_PI_4B_4GB1\RASPBERRY_PI_4B_4GB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,6 +541,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document30]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLOYWJUL
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Mother_board_bna\Design Rule Check - PCB1.html
