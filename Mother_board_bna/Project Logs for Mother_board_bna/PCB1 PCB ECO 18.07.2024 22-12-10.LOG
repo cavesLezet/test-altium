@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=I2C1_SCL Pin=J1-03
-Removed Pin From Net: NetName=I2C1_SDA Pin=J1-04
-Removed Pin From Net: NetName=RS485_2_P Pin=J1-11
-Removed Pin From Net: NetName=RS485_2_N Pin=J1-12
-Added Pin To Net: NetName=RS485_2_P Pin=J1-03
-Added Pin To Net: NetName=RS485_2_N Pin=J1-04
-Added Pin To Net: NetName=I2C1_SCL Pin=J1-11
-Added Pin To Net: NetName=I2C1_SDA Pin=J1-12
