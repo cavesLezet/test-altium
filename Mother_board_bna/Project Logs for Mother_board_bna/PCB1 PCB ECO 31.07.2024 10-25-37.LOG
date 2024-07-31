@@ -1,0 +1,76 @@
+Added Component: Designator=DD1(SOIC8N)
+Add component (AddParameter): Name = "Case"; Value = "soic-8(0.154 inch)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/276/DOC000276899.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "True fail-safe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "3.3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/max3072eesa"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(SOIC8N)
+Add component (AddParameter): Name = "Case"; Value = "soic-8(0.154 inch)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/276/DOC000276899.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "True fail-safe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "3.3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/max3072eesa"; VariantName = "[No Variations]"
+Added Component: Designator=DD3(SOIC8N)
+Add component (AddParameter): Name = "Case"; Value = "soic-8(0.154 inch)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/276/DOC000276899.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "True fail-safe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "3.3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/max3072eesa"; VariantName = "[No Variations]"
+Added Component: Designator=DD4(SOIC8N)
+Add component (AddParameter): Name = "Case"; Value = "soic-8(0.154 inch)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/276/DOC000276899.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "True fail-safe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "3.3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/max3072eesa"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X175-14N
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=DD1-5
+Added Pin To Net: NetName=RS485_P Pin=DD1-6
+Added Pin To Net: NetName=RS485_N Pin=DD1-7
+Added Pin To Net: NetName=3.3V Pin=DD1-8
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=GND Pin=DD2-5
+Added Pin To Net: NetName=RS485_2_P Pin=DD2-6
+Added Pin To Net: NetName=RS485_2_N Pin=DD2-7
+Added Pin To Net: NetName=3.3V Pin=DD2-8
+Added Pin To Net: NetName=NetDD3_1 Pin=DD3-1
+Added Pin To Net: NetName=NetDD3_2 Pin=DD3-2
+Added Pin To Net: NetName=NetDD3_2 Pin=DD3-3
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=GND Pin=DD3-5
+Added Pin To Net: NetName=RS485_3_P Pin=DD3-6
+Added Pin To Net: NetName=RS485_3_N Pin=DD3-7
+Added Pin To Net: NetName=3.3V Pin=DD3-8
+Added Pin To Net: NetName=NetDD4_1 Pin=DD4-1
+Added Pin To Net: NetName=NetDD4_2 Pin=DD4-2
+Added Pin To Net: NetName=NetDD4_2 Pin=DD4-3
+Added Pin To Net: NetName=NetDD4_4 Pin=DD4-4
+Added Pin To Net: NetName=GND Pin=DD4-5
+Added Pin To Net: NetName=RS485_4_P Pin=DD4-6
+Added Pin To Net: NetName=RS485_4_N Pin=DD4-7
+Added Pin To Net: NetName=3.3V Pin=DD4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-14
+Added Member To Class: ClassName=Main Member=Component DD1 =Value
+Added Member To Class: ClassName=Main Member=Component DD2 =Value
+Added Member To Class: ClassName=Main Member=Component DD3 =Value
+Added Member To Class: ClassName=Main Member=Component DD4 =Value
+Add Class Member: Failed to add class member : Component U5 74HC14D

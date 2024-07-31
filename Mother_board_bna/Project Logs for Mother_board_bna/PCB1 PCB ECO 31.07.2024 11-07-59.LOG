@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=RS485_P Pin=J1-01
+Removed Pin From Net: NetName=RS485_N Pin=J1-02
+Removed Pin From Net: NetName=RS485_2_P Pin=J1-03
+Removed Pin From Net: NetName=RS485_2_N Pin=J1-04
+Removed Pin From Net: NetName=RS485_3_P Pin=J1-05
+Removed Pin From Net: NetName=RS485_3_N Pin=J1-06
+Removed Pin From Net: NetName=RS485_4_P Pin=J1-07
+Removed Pin From Net: NetName=RS485_4_N Pin=J1-08
+Change Component Designator: OldDesignator=RX NewDesignator=HL1
+Change Component Designator: OldDesignator=RX NewDesignator=HL3
+Change Component Designator: OldDesignator=RX NewDesignator=HL5
+Change Component Designator: OldDesignator=RX NewDesignator=HL7
+Change Component Designator: OldDesignator=RX NewDesignator=HL8
+Change Component Designator: OldDesignator=TX NewDesignator=HL2
+Change Component Designator: OldDesignator=TX NewDesignator=HL4
+Change Component Designator: OldDesignator=TX NewDesignator=HL6
+Change Component Designator: OldDesignator=TX NewDesignator=HL9
+Change Component Designator: OldDesignator=TX NewDesignator=HL10
+Added Pin To Net: NetName=RS485_N Pin=J1-01
+Added Pin To Net: NetName=RS485_P Pin=J1-02
+Added Pin To Net: NetName=RS485_2_N Pin=J1-03
+Added Pin To Net: NetName=RS485_2_P Pin=J1-04
+Added Pin To Net: NetName=RS485_3_N Pin=J1-05
+Added Pin To Net: NetName=RS485_3_P Pin=J1-06
+Added Pin To Net: NetName=RS485_4_N Pin=J1-07
+Added Pin To Net: NetName=RS485_4_P Pin=J1-08
+Added Member To Class: ClassName=Main Member=Component HL2 =Value
+Added Member To Class: ClassName=Main Member=Component HL3 =Value
+Added Member To Class: ClassName=Main Member=Component HL5 =Value
+Added Member To Class: ClassName=Main Member=Component HL6 =Value
+Added Member To Class: ClassName=Main Member=Component HL7 =Value
+Added Member To Class: ClassName=Main Member=Component HL8 =Value
+Added Member To Class: ClassName=Main Member=Component HL9 =Value
+Added Member To Class: ClassName=Main Member=Component HL10 =Value

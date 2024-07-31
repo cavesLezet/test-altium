@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UART4_RX Pin=U1-24
+Added Pin To Net: NetName=UART4_RX Pin=U1-26
+Added Member To Class: ClassName=Main Member=Component HL1 =Value
+Added Member To Class: ClassName=Main Member=Component HL4 =Value

@@ -1,0 +1,21 @@
+Added Component: Designator=U5(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74HC14D/Toshiba+Semiconductor+and+Storage/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO14-14 Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/74HC14D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC14D/Toshiba+Semiconductor+and+Storage/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=U5-1
+Added Pin To Net: NetName=NetDD1_2 Pin=U5-2
+Added Pin To Net: NetName=NetC4_1 Pin=U5-3
+Added Pin To Net: NetName=NetDD2_2 Pin=U5-4
+Added Pin To Net: NetName=NetC5_1 Pin=U5-5
+Added Pin To Net: NetName=NetDD3_2 Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=NetDD4_2 Pin=U5-8
+Added Pin To Net: NetName=NetC6_1 Pin=U5-9
+Added Pin To Net: NetName=3.3V Pin=U5-14
+Added Member To Class: ClassName=Main Member=Component U5 74HC14D
