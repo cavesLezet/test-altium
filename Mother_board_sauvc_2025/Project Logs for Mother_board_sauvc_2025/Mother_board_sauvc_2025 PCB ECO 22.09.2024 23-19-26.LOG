@@ -1,0 +1,129 @@
+Add Component: Footprint Not Found C0402C
+Add Component: Footprint Not Found C0805C
+Add Component: Footprint Not Found C0603C
+Add Component: Footprint Not Found C0603C
+Add Component: Footprint Not Found SOT-223
+Add Component: Footprint Not Found SKM30A05
+Add Component: Footprint Not Found SKM30B12
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found MODULE_RASPBERRY_PI_4B_4GB
+Add Component: Footprint Not Found SOIC127P600X175-14N
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin DA1-1
+Add Pin To Net: Unknown Pin: Pin DA1-2
+Add Pin To Net: Unknown Pin: Pin DA1-3
+Add Pin To Net: Unknown Pin: Pin DA1-4
+Added Pin To Net: NetName=UART3_RX Pin=J1-C5
+Added Pin To Net: NetName=UART3_TX Pin=J1-C6
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-3
+Add Pin To Net: Unknown Pin: Pin PS1-4
+Add Pin To Net: Unknown Pin: Pin PS1-5
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS2-3
+Add Pin To Net: Unknown Pin: Pin PS2-4
+Add Pin To Net: Unknown Pin: Pin PS2-5
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Add Pin To Net: Unknown Pin: Pin SW4-1
+Add Pin To Net: Unknown Pin: Pin SW4-2
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Add Pin To Net: Unknown Pin: Pin U3-29
+Add Pin To Net: Unknown Pin: Pin U3-30
+Add Pin To Net: Unknown Pin: Pin U3-34
+Add Pin To Net: Unknown Pin: Pin U3-39
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-14
+Added Pin To Net: NetName=GPIO16 Pin=J1-C14
+Added Net: Name=GPIO16
+Added Net: Name=GPIO19
+Added Pin To Net: NetName=GPIO20 Pin=J1-C17
+Added Net: Name=GPIO20
+Added Pin To Net: NetName=OUT1 Pin=J1-B1
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=J1-B2
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=J1-B3
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=J1-B4
+Added Net: Name=OUT4
+Added Pin To Net: NetName=OUT5 Pin=J1-B5
+Added Net: Name=OUT5
+Added Pin To Net: NetName=OUT6 Pin=J1-B6
+Added Net: Name=OUT6
+Added Pin To Net: NetName=OUT7 Pin=J1-B7
+Added Net: Name=OUT7
+Added Pin To Net: NetName=OUT8 Pin=J1-B8
+Added Net: Name=OUT8
+Added Pin To Net: NetName=OUT9 Pin=J1-B9
+Added Net: Name=OUT9
+Added Pin To Net: NetName=OUT10 Pin=J1-B10
+Added Net: Name=OUT10
+Added Pin To Net: NetName=OUT11 Pin=J1-B11
+Added Net: Name=OUT11
+Added Pin To Net: NetName=OUT12 Pin=J1-B12
+Added Net: Name=OUT12
+Add Class Member: Failed to add class member : Component C1 100 nF
+Add Class Member: Failed to add class member : Component C2 10 לךװ
+Add Class Member: Failed to add class member : Component C6 0,1לךװ
+Add Class Member: Failed to add class member : Component C7 0,1לךװ
+Add Class Member: Failed to add class member : Component DA1 LD1117S33TR
+Add Class Member: Failed to add class member : Component PS1 SKM30A-05
+Add Class Member: Failed to add class member : Component PS2 SKM30A-12
+Add Class Member: Failed to add class member : Component R3 22 ך
+Add Class Member: Failed to add class member : Component R4 22 ך
+Add Class Member: Failed to add class member : Component R5 120
+Add Class Member: Failed to add class member : Component R6 120
+Add Class Member: Failed to add class member : Component SW1 SW2
+Add Class Member: Failed to add class member : Component SW2
+Add Class Member: Failed to add class member : Component SW3 SW2
+Add Class Member: Failed to add class member : Component SW4 SW2
+Add Class Member: Failed to add class member : Component U3 RASPBERRY_PI_4B_4GB
+Add Class Member: Failed to add class member : Component U6 74HC14D

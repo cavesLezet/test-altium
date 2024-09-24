@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=DA1-2
+Added Pin To Net: NetName=3.3V Pin=DA1-4
+Added Pin To Net: NetName=5V Pin=PS1-4
+Added Pin To Net: NetName=12V Pin=PS2-4

@@ -1,0 +1,50 @@
+Add Component: Footprint Not Found SKM30A05
+Add Component: Footprint Not Found SKM30B12
+Added Component: Designator=U3(PLD40)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RASPBERRY%20PI%204B/4GB/Raspberry+Pi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RASPBERRY PI 4B/4GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RASPBERRY PI 4B/4GB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RASPBERRY%20PI%204B/4GB/Raspberry+Pi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN_VMA Pin=J1-C14
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-3
+Add Pin To Net: Unknown Pin: Pin PS1-4
+Add Pin To Net: Unknown Pin: Pin PS1-5
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS2-3
+Add Pin To Net: Unknown Pin: Pin PS2-4
+Add Pin To Net: Unknown Pin: Pin PS2-5
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=I2C1_SDA Pin=U3-3
+Added Pin To Net: NetName=NetU3_2 Pin=U3-4
+Added Pin To Net: NetName=I2C1_SCL Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=UART3_RX Pin=U3-7
+Added Pin To Net: NetName=UART0_TX Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=UART0_RX Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-14
+Added Pin To Net: NetName=I2C2_SDA Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-20
+Added Pin To Net: NetName=I2C2_SCL Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U3-25
+Added Pin To Net: NetName=UART2_TX Pin=U3-27
+Added Pin To Net: NetName=UART2_RX Pin=U3-28
+Added Pin To Net: NetName=UART3_TX Pin=U3-29
+Added Pin To Net: NetName=GND Pin=U3-30
+Added Pin To Net: NetName=GND Pin=U3-34
+Added Pin To Net: NetName=GPIO19 Pin=U3-35
+Added Pin To Net: NetName=EN_VMA Pin=U3-36
+Added Pin To Net: NetName=GPIO20 Pin=U3-38
+Added Pin To Net: NetName=GND Pin=U3-39
+Change Net Name : Old Net Name=EN_VMA New Net Name=GPIO16
+Add Class Member: Failed to add class member : Component PS1 SKM30A-05
+Add Class Member: Failed to add class member : Component PS2 SKM30A-12
+Added Member To Class: ClassName=RPI Member=Component U3 RASPBERRY_PI_4B_4GB

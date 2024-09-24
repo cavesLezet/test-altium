@@ -1,0 +1,323 @@
+Add Component: Footprint Not Found C0603C
+Add Component: Footprint Not Found C0603C
+Added Component: Designator=D1(SOD-123F)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/SBD.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ki_description"; Value = "Schottky Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ki_keywords"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-123F)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/SBD.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ki_description"; Value = "Schottky Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ki_keywords"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SOIC8N)
+Add component (AddParameter): Name = "Case"; Value = "soic-8(0.154 inch)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/276/DOC000276899.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "True fail-safe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "3.3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/max3072eesa"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(SOIC8N)
+Add component (AddParameter): Name = "Case"; Value = "soic-8(0.154 inch)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/276/DOC000276899.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "True fail-safe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = "3.3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = "https://www.chipdip.ru/product/max3072eesa"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIN 96 uglovoy
+Added Component: Designator=J1(CINCH_DIN96SBSPF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DIN96SBSPF/Cinch+Connectivity+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DIN96SBSPF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=DIN96SBSPF&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DIN96SBSPF/Cinch+Connectivity+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found C0603R
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Added Component: Designator=U1(SOP65P640X110-28N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PCA9685PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-28 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PCA9685PW,118/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CD40109BE/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD40109BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD40109BE/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_RASPBERRY_PI_4B_4GB
+Added Component: Designator=U4(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CD40109BE/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD40109BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD40109BE/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CD40109BE/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD40109BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD40109BE/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X175-14N
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Pin To Net: NetName=NetC6_1 Pin=D1-A
+Added Pin To Net: NetName=UART0_TX Pin=D1-K
+Added Pin To Net: NetName=NetC7_1 Pin=D2-A
+Added Pin To Net: NetName=UART2_TX Pin=D2-K
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=DD1-5
+Added Pin To Net: NetName=RS485_P Pin=DD1-6
+Added Pin To Net: NetName=RS485_N Pin=DD1-7
+Added Pin To Net: NetName=3.3V Pin=DD1-8
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=GND Pin=DD2-5
+Added Pin To Net: NetName=RS485_2_P Pin=DD2-6
+Added Pin To Net: NetName=RS485_2_N Pin=DD2-7
+Added Pin To Net: NetName=3.3V Pin=DD2-8
+Add Pin To Net: Unknown Pin: Pin DIN1-1
+Add Pin To Net: Unknown Pin: Pin DIN1-2
+Add Pin To Net: Unknown Pin: Pin DIN1-3
+Add Pin To Net: Unknown Pin: Pin DIN1-4
+Add Pin To Net: Unknown Pin: Pin DIN1-5
+Add Pin To Net: Unknown Pin: Pin DIN1-6
+Add Pin To Net: Unknown Pin: Pin DIN1-7
+Add Pin To Net: Unknown Pin: Pin DIN1-8
+Add Pin To Net: Unknown Pin: Pin DIN1-9
+Add Pin To Net: Unknown Pin: Pin DIN1-10
+Add Pin To Net: Unknown Pin: Pin DIN1-11
+Add Pin To Net: Unknown Pin: Pin DIN1-12
+Add Pin To Net: Unknown Pin: Pin DIN1-13
+Add Pin To Net: Unknown Pin: Pin DIN1-14
+Add Pin To Net: Unknown Pin: Pin DIN1-15
+Add Pin To Net: Unknown Pin: Pin DIN1-16
+Add Pin To Net: Unknown Pin: Pin DIN1-17
+Add Pin To Net: Unknown Pin: Pin DIN1-18
+Add Pin To Net: Unknown Pin: Pin DIN1-19
+Add Pin To Net: Unknown Pin: Pin DIN1-20
+Add Pin To Net: Unknown Pin: Pin DIN1-27
+Add Pin To Net: Unknown Pin: Pin DIN1-28
+Add Pin To Net: Unknown Pin: Pin DIN1-29
+Add Pin To Net: Unknown Pin: Pin DIN1-30
+Add Pin To Net: Unknown Pin: Pin DIN1-31
+Add Pin To Net: Unknown Pin: Pin DIN1-32
+Add Pin To Net: Unknown Pin: Pin DIN1-33
+Add Pin To Net: Unknown Pin: Pin DIN1-34
+Add Pin To Net: Unknown Pin: Pin DIN1-35
+Add Pin To Net: Unknown Pin: Pin DIN1-36
+Add Pin To Net: Unknown Pin: Pin DIN1-37
+Add Pin To Net: Unknown Pin: Pin DIN1-38
+Add Pin To Net: Unknown Pin: Pin DIN1-39
+Add Pin To Net: Unknown Pin: Pin DIN1-40
+Add Pin To Net: Unknown Pin: Pin DIN1-41
+Add Pin To Net: Unknown Pin: Pin DIN1-42
+Add Pin To Net: Unknown Pin: Pin DIN1-43
+Add Pin To Net: Unknown Pin: Pin DIN1-44
+Add Pin To Net: Unknown Pin: Pin DIN1-55
+Add Pin To Net: Unknown Pin: Pin DIN1-56
+Add Pin To Net: Unknown Pin: Pin DIN1-61
+Add Pin To Net: Unknown Pin: Pin DIN1-62
+Add Pin To Net: Unknown Pin: Pin DIN1-63
+Add Pin To Net: Unknown Pin: Pin DIN1-64
+Add Pin To Net: Unknown Pin: Pin DIN1-67
+Add Pin To Net: Unknown Pin: Pin DIN1-68
+Add Pin To Net: Unknown Pin: Pin DIN1-69
+Add Pin To Net: Unknown Pin: Pin DIN1-70
+Add Pin To Net: Unknown Pin: Pin DIN1-78
+Add Pin To Net: Unknown Pin: Pin DIN1-80
+Add Pin To Net: Unknown Pin: Pin DIN1-81
+Add Pin To Net: Unknown Pin: Pin DIN1-86
+Add Pin To Net: Unknown Pin: Pin DIN1-87
+Add Pin To Net: Unknown Pin: Pin DIN1-88
+Add Pin To Net: Unknown Pin: Pin DIN1-89
+Add Pin To Net: Unknown Pin: Pin DIN1-90
+Add Pin To Net: Unknown Pin: Pin DIN1-91
+Add Pin To Net: Unknown Pin: Pin DIN1-92
+Add Pin To Net: Unknown Pin: Pin DIN1-93
+Add Pin To Net: Unknown Pin: Pin DIN1-94
+Add Pin To Net: Unknown Pin: Pin DIN1-95
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=GND Pin=J1-A2
+Added Pin To Net: NetName=GND Pin=J1-A3
+Added Pin To Net: NetName=GND Pin=J1-A4
+Added Pin To Net: NetName=GND Pin=J1-A5
+Added Pin To Net: NetName=GND Pin=J1-A6
+Added Pin To Net: NetName=GND Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-A8
+Added Pin To Net: NetName=GND Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A10
+Added Pin To Net: NetName=V bat Pin=J1-A11
+Added Pin To Net: NetName=V bat Pin=J1-A12
+Added Pin To Net: NetName=V bat Pin=J1-A13
+Added Pin To Net: NetName=V bat Pin=J1-A14
+Added Pin To Net: NetName=V bat Pin=J1-A15
+Added Pin To Net: NetName=V bat Pin=J1-A16
+Added Pin To Net: NetName=V bat Pin=J1-A17
+Added Pin To Net: NetName=V bat Pin=J1-A18
+Added Pin To Net: NetName=V bat Pin=J1-A19
+Added Pin To Net: NetName=V bat Pin=J1-A20
+Added Pin To Net: NetName=RS485_P Pin=J1-A27
+Added Pin To Net: NetName=RS485_N Pin=J1-A28
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Add Pin To Net: Unknown Pin: Pin SW4-1
+Add Pin To Net: Unknown Pin: Pin SW4-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-26
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-27
+Added Pin To Net: NetName=5V Pin=U1-28
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=EN_VMA Pin=U2-2
+Added Pin To Net: NetName=NetU1_6 Pin=U2-3
+Added Pin To Net: NetName=NetU1_7 Pin=U2-6
+Added Pin To Net: NetName=EN_VMA Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=EN_VMA Pin=U2-9
+Added Pin To Net: NetName=NetU1_8 Pin=U2-10
+Added Pin To Net: NetName=NetU1_9 Pin=U2-14
+Added Pin To Net: NetName=EN_VMA Pin=U2-15
+Added Pin To Net: NetName=5V Pin=U2-16
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-26
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Add Pin To Net: Unknown Pin: Pin U3-29
+Add Pin To Net: Unknown Pin: Pin U3-30
+Add Pin To Net: Unknown Pin: Pin U3-32
+Add Pin To Net: Unknown Pin: Pin U3-33
+Add Pin To Net: Unknown Pin: Pin U3-34
+Add Pin To Net: Unknown Pin: Pin U3-35
+Add Pin To Net: Unknown Pin: Pin U3-36
+Add Pin To Net: Unknown Pin: Pin U3-38
+Add Pin To Net: Unknown Pin: Pin U3-39
+Added Pin To Net: NetName=5V Pin=U4-1
+Added Pin To Net: NetName=EN_VMA Pin=U4-2
+Added Pin To Net: NetName=NetU1_10 Pin=U4-3
+Added Pin To Net: NetName=NetU1_11 Pin=U4-6
+Added Pin To Net: NetName=EN_VMA Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=EN_VMA Pin=U4-9
+Added Pin To Net: NetName=NetU1_12 Pin=U4-10
+Added Pin To Net: NetName=NetU1_13 Pin=U4-14
+Added Pin To Net: NetName=EN_VMA Pin=U4-15
+Added Pin To Net: NetName=5V Pin=U4-16
+Added Pin To Net: NetName=5V Pin=U5-1
+Added Pin To Net: NetName=EN_VMA Pin=U5-2
+Added Pin To Net: NetName=NetU1_15 Pin=U5-3
+Added Pin To Net: NetName=NetU1_16 Pin=U5-6
+Added Pin To Net: NetName=EN_VMA Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=EN_VMA Pin=U5-9
+Added Pin To Net: NetName=NetU1_17 Pin=U5-10
+Added Pin To Net: NetName=NetU1_18 Pin=U5-14
+Added Pin To Net: NetName=EN_VMA Pin=U5-15
+Added Pin To Net: NetName=5V Pin=U5-16
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Net: Net with name "PWM1" already exists
+Add Net: Net with name "PWM2" already exists
+Add Net: Net with name "PWM3" already exists
+Add Net: Net with name "PWM4" already exists
+Add Net: Net with name "PWM5" already exists
+Add Net: Net with name "PWM6" already exists
+Add Net: Net with name "PWM7" already exists
+Add Net: Net with name "PWM8" already exists
+Add Net: Net with name "PWM9" already exists
+Add Net: Net with name "PWM10" already exists
+Add Net: Net with name "PWM11" already exists
+Add Net: Net with name "PWM12" already exists
+Add Class Member: Failed to add class member : Component C6 0,1לךװ
+Add Class Member: Failed to add class member : Component C7 0,1לךװ
+Added Member To Class: ClassName=Designator Member=Component D1 Diode
+Added Member To Class: ClassName=Designator Member=Component D2 Diode
+Added Member To Class: ClassName=Designator Member=Component DD1 Value
+Added Member To Class: ClassName=Designator Member=Component DD2 Value
+Add Class Member: Failed to add class member : Component DIN1 DIN 96
+Added Member To Class: ClassName=Designator Member=Component J1 DIN96SBSPF
+Add Class Member: Failed to add class member : Component R3 22 ך
+Add Class Member: Failed to add class member : Component R4 22 ך
+Add Class Member: Failed to add class member : Component R5 120
+Add Class Member: Failed to add class member : Component R6 120
+Add Class Member: Failed to add class member : Component SW1 SW2
+Add Class Member: Failed to add class member : Component SW2
+Add Class Member: Failed to add class member : Component SW3 SW2
+Add Class Member: Failed to add class member : Component SW4 SW2
+Added Member To Class: ClassName=Designator Member=Component U1 PCA9685PW,118
+Added Member To Class: ClassName=Designator Member=Component U2 CD40109BE
+Add Class Member: Failed to add class member : Component U3 RASPBERRY_PI_4B_4GB
+Added Member To Class: ClassName=Designator Member=Component U4 CD40109BE
+Added Member To Class: ClassName=Designator Member=Component U5 CD40109BE
+Add Class Member: Failed to add class member : Component U6 74HC14D
